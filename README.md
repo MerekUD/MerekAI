@@ -1,5 +1,38 @@
-# MerekAI
-# Cracking MerekUD: A Deobfuscation Walkthrough & Discord Meltdown
+![Made with 💔](https://img.shields.io/badge/Made_with-ChatGPT-red?style=flat-square)
+![Obfuscation Level](https://img.shields.io/badge/Obfuscation-PyArmor-inactive?style=flat-square)
+
+
+# 💀 MerekAI v4.9 - Full Source Leak
+
+This is the **fully cracked and deobfuscated** version of the paid cheat previously sold by Merek.
+It's built on top of ChatGPT-generated boilerplate, PyArmor obfuscation, and false promises of innovation. 
+So you'll see how every AI cheat is just a paste.
+
+## Features
+
+* ✅ YOLOv8-based "AI" Aimbot
+* ✅ Tkinter FOV Overlay (drawn with love and 0 effort)
+* ✅ KeyAuth Integration with hardcoded creds 🤡
+* ✅ Full Triggerbot support (sometimes)
+* ✅ Clean `ctypes` abuse for mouse injection
+* ✅ Script auto-exits if it detects skill
+
+## Bonus
+
+* Comes with unpatched `HWID` spoofing remnants.
+* Includes all runtime obfuscation logic... but it's useless now 🤷‍♂️
+* PyArmor "protection" now serving as a performance tax
+
+
+
+## Developer Hall of Shame
+
+* **Merek** – "Lead dev", who asked for his own source back 💀
+* **Skillz** – Just here for moral support and fem jokes
+* **Redacted** – Claimed he was untouchable, now touché
+* **Thor\[LGBT]** – Unwilling mod, probably traumatized
+* **Cebo\[BOSS]** – Spammed 💀 emojis, contributed 0 lines of code
+
 
 ## 🧠 Context
 
@@ -55,7 +88,7 @@ Upon exposing the truth in their server:
 To close it clean, I dropped a fake GitHub repo, which is this one
 With a readme just troll enough to twist the knife.
 
-## 💡 Final Words
+## My words
 You don’t always need to nuke a project to win. Sometimes just showing you could is enough to:
 
 * Expose the bullshit
@@ -64,9 +97,21 @@ You don’t always need to nuke a project to win. Sometimes just showing you cou
 
 See you in v5.0 👋
 
+## Credits
+
+* Merek for the original code
+* Redacted for acting like the dev
+* Me for cracking it
+* PyArmor for the false sense of security
+
+## Final Message
+
+Enjoy the leak.
+I’ll be watching v4.9. 👀
+
+
+
+
 ## Disclaimer
 
 Any resemblance to actual cheats, living or dead, is purely intentional.
-
-Thanks to Merek for the source, and to Skillz for emotional support.  
-Special shoutout to "Redacted™" for... something, I guess.
