@@ -4,4 +4,4 @@
 - [ ] Add GPT logo to GUI for legitimacy
 - [ ] Re-obfuscate using PyArmor (again)
 - [ ] Ask Aeryth for code recovery
-- [ ] Pretend everything is fine
+- [ x ] Pretend everything is fine
